@@ -4,3 +4,4 @@ var serv = http.createServer(function (req,res){
     res.end('<marquee>smashing node!</marquee>');
 });
 serv.listen(3000);
+//git版本控制分枝测试
